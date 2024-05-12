@@ -1,0 +1,10 @@
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.AssemblyReference.cache
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\CruzC\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb

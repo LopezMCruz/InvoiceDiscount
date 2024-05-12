@@ -23,8 +23,8 @@ To build and run this application, you will need:
 ### Steps to Build and Run:
 1. **Clone or download the repository:**
    ```bash
-   git clone [https://github.com/LopezMCruz/InvoiceDiscount]
-   cd [InvoiceDiscount]
+   git clone https://github.com/LopezMCruz/InvoiceDiscount
+   cd InvoiceDiscount
    ```
 2. **Open the solution in Visual Studio:**
 	- Double-click on the solution file (*.sln) to open it in Visual Studio.
